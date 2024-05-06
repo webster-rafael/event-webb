@@ -1,4 +1,4 @@
-import webbLogo from '../assets/webb-logo.svg';
+import webbLogo from '/assets/webb-logo.svg';
 import { NavLink } from './nav-link';
 
 export function Header() {
